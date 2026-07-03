@@ -1,6 +1,6 @@
 .cabecalho{
     background-color: black;
-    color:yellow;
+    color:rgb(31, 31, 3);
     text-align: center;
     margin:0 auto;
     max-width: 500px;
@@ -8,6 +8,12 @@
 }
 
 .principal{
-    background-color: yellow;
+    background-color: rgb(255, 0, 21);
     color:black;
+}
+.principal-imagem{
+/*Dimensões da imagem: largura e altura 100 pixels*/
+    width: 100px;
+    height: 100px;
+
 }
